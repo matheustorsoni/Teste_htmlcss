@@ -1,0 +1,42 @@
+#title {
+    color:rgb(5, 5, 5);
+    font-size: 40px;
+    text-transform: uppercase;
+    
+}
+a{color: rgb(0, 0, 0);}
+
+    .post_title {
+      color: rgb(0, 0, 0);
+      font-size: 16px;
+      font-style:oblique 
+      
+    }
+
+   body{
+       background: rgb(211, 238, 238);
+       width: :900px;
+       margin: auto;
+       
+       
+       
+   }
+
+   .post {
+       background: rgba(252, 228, 228, 0.664);
+       padding: 10px;
+       border: 3px solid rgba(252, 196, 13, 0.781);
+       margin: 10px;
+       font-family: fantasy;
+       border-radius: 20%;
+   }
+   .post_image2{
+       border: 2px solid rgba(252, 196, 13, 0.781);
+       margin: auto;
+   }
+
+   .post_image1{
+       border: 1px solid rgba(252, 196, 13, 0.781);
+       border-radius: 50%;
+
+   }
