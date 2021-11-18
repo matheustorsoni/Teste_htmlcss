@@ -1,6 +1,6 @@
 
 <center> <h1>💻 Primeiro teste HTML 💻</h1> </center>
-<p> Ola neste projeto iremos fazer uma pagina de perfil para testarmos os comandos basicos de html e css </p>
+<p> Ola neste projeto iremos fazer uma pagina de perfil para testarmos os comandos basicos de html e css. </p>
 
 ## Autor
 
